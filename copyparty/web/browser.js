@@ -110,9 +110,9 @@ var Ls = {
 		"ht_and": " and ",
 
 		"goh": "control-panel",
-		"gop": 'previous sibling">prev',
-		"gou": 'parent folder">up',
-		"gon": 'next folder">next',
+		"gop": 'previous sibling',
+		"gou": 'parent folder',
+		"gon": 'next folder',
 		"logout": "Logout ",
 		"login": "Login",
 		"access": " access",
@@ -742,9 +742,9 @@ var Ls = {
 		"ht_and": " og ",
 
 		"goh": "kontrollpanel",
-		"gop": 'naviger til mappen før denne">forr.',
-		"gou": 'naviger ett nivå opp">opp',
-		"gon": 'naviger til mappen etter denne">neste',
+		"gop": 'naviger til mappen før denne',
+		"gou": 'naviger ett nivå opp',
+		"gon": 'naviger til mappen etter denne',
 		"logout": "Logg ut ",
 		"login": "Logg inn",
 		"access": " tilgang",
@@ -1373,9 +1373,9 @@ var Ls = {
 		"ht_and": " 和 ",
 
 		"goh": "控制面板",
-		"gop": '前一项">pre',
-		"gou": '顶部">up',
-		"gon": '下一项">next',
+		"gop": '前一项',
+		"gou": '顶部',
+		"gon": '下一项',
 		"logout": " 登出",
 		"login": "登录", //m
 		"access": " 访问",
@@ -2008,9 +2008,9 @@ var Ls = {
 		"ht_and": " a ",
 
 		"goh": "ovládací panel",
-		"gop": 'předchozí sourozenec">předchozí',
-		"gou": 'nadřazená složka">nahoru',
-		"gon": 'následující složka">následující',
+		"gop": 'předchozí sourozenec',
+		"gou": 'nadřazená složka',
+		"gon": 'následující složka',
 		"logout": "Odhlásit ",
 		"login": "Přihlásit se", //m
 		"access": " přístup",
@@ -2639,9 +2639,9 @@ var Ls = {
 		"ht_and": " und ",
 
 		"goh": "Einstellungen",
-		"gop": 'zum vorherigen Ordner springen">vorh.',
-		"gou": 'zum übergeordneter Ordner springen">hoch',
-		"gon": 'zum nächsten Ordner springen">nächst.',
+		"gop": 'zum vorherigen Ordner springen',
+		"gou": 'zum übergeordneter Ordner springen',
+		"gon": 'zum nächsten Ordner springen',
 		"logout": "Abmelden ",
 		"login": "Anmelden", //m
 		"access": " Zugriff",
@@ -3270,9 +3270,9 @@ var Ls = {
 		"ht_and": " ja ",
 
 		"goh": "hallintapaneeli",
-		"gop": 'viereinen hakemisto">edell',
-		"gou": 'ylempi hakemisto">ylös',
-		"gon": 'seuraava hakemisto">seur',
+		"gop": 'viereinen hakemisto',
+		"gou": 'ylempi hakemisto',
+		"gon": 'seuraava hakemisto',
 		"logout": "Kirjaudu ulos ",
 		"login": "Kirjaudu sisään", //m
 		"access": " -oikeudet",
@@ -3901,9 +3901,9 @@ var Ls = {
 		"ht_and": " et ",
 
 		"goh": "panneau-de-commande",
-		"gop": 'élément "frère" précédent">précédent',
-		"gou": 'dossier parent">haut',
-		"gon": 'dossier suivant">suivant',
+		"gop": 'élément "frère" précédent',
+		"gou": 'dossier parent',
+		"gon": 'dossier suivant',
 		"logout": "Déconnexion ",
 		"login": "Se connecter", //m
 		"access": " accès",
@@ -4532,9 +4532,9 @@ var Ls = {
 		"ht_and": " και ",
 
 		"goh": "πίνακας ελέγχου",
-		"gop": 'προηγούμενος φάκελος στο ίδιο επίπεδο">προηγούμενο',
-		"gou": 'γονικός φάκελος">πάνω',
-		"gon": 'επόμενος φάκελος">επόμενο',
+		"gop": 'προηγούμενος φάκελος στο ίδιο επίπεδο',
+		"gou": 'γονικός φάκελος',
+		"gon": 'επόμενος φάκελος',
 		"logout": "Αποσύνδεση ",
 		"login": "Σύνδεση", //m
 		"access": " πρόσβαση",
@@ -5163,9 +5163,9 @@ var Ls = {
 		"ht_and": " e ",
 
 		"goh": "control-panel",
-		"gop": 'cartella sorella precedente">prec',
-		"gou": 'cartella genitore">su',
-		"gon": 'prossima cartella">succ',
+		"gop": 'cartella sorella precedente',
+		"gou": 'cartella genitore',
+		"gon": 'prossima cartella',
 		"logout": "Logout ",
 		"login": "Accedi", //m
 		"access": " accesso",
@@ -5794,9 +5794,9 @@ var Ls = {
 		"ht_and": " ",
 
 		"goh": "제어판",
-		"gop": '이전 형제 폴더">이전',
-		"gou": '상위 폴더">위로',
-		"gon": '다음 폴더">다음',
+		"gop": '이전 형제 폴더',
+		"gou": '상위 폴더',
+		"gon": '다음 폴더',
 		"logout": "로그아웃 ",
 		"login": "로그인", //m
 		"access": " 액세스",
@@ -6425,9 +6425,9 @@ var Ls = {
 		"ht_and": " en ",
 
 		"goh": "Beheer-paneel",
-		"gop": 'Vorige map">Vorige',
-		"gou": 'Bovenligende map">Omhoog',
-		"gon": 'Volgende map">Volgende',
+		"gop": 'Vorige map',
+		"gou": 'Bovenligende map',
+		"gon": 'Volgende map',
 		"logout": "Uitloggen ",
 		"login": "Inloggen", //m
 		"access": " Toegang",
@@ -7057,9 +7057,9 @@ var Ls = {
 		"ht_and": " og ",
 
 		"goh": "kontrollpanel",
-		"gop": 'navigér åt mappa før den her">forr.',
-		"gou": 'navigér eitt nivå opp">opp',
-		"gon": 'navigér åt mappa etter den her">neste',
+		"gop": 'navigér åt mappa før den her',
+		"gou": 'navigér eitt nivå opp',
+		"gon": 'navigér åt mappa etter den her',
 		"logout": "Logg ut ",
 		"login": "Logg inn",
 		"access": " åtgang",
@@ -7690,9 +7690,9 @@ var Ls = {
 		"ht_and": " i ",
 
 		"goh": "panel sterowania",
-		"gop": 'poprzedni plik/folder">poprzedni',
-		"gou": 'nadrzędny folder">w górę',
-		"gon": 'następny folder">następny',
+		"gop": 'poprzedni plik/folder',
+		"gou": 'nadrzędny folder',
+		"gon": 'następny folder',
 		"logout": "Wyloguj ",
 		"login": "Zaloguj się", //m
 		"access": " dostęp",
@@ -8319,9 +8319,9 @@ var Ls = {
 		"ht_and": " e ",
 
 		"goh": "painel de controle",
-		"gop": 'pai anterior">anterior',
-		"gou": 'pasta pai">acima',
-		"gon": 'próxima pasta">próximo',
+		"gop": 'pai anterior',
+		"gou": 'pasta pai',
+		"gon": 'próxima pasta',
 		"logout": "Sair ",
 		"login": "Fazer login",
 		"access": " acesso",
@@ -8950,9 +8950,9 @@ var Ls = {
 		"ht_and": " и ",
 
 		"goh": "панель управления",
-		"gop": 'предыдущая папка">пред',
-		"gou": 'родительская папка">вверх',
-		"gon": 'следующая папка">след',
+		"gop": 'предыдущая папка',
+		"gou": 'родительская папка',
+		"gon": 'следующая папка',
 		"logout": "Выйти ",
 		"login": "Войти", //m
 		"access": " доступ",
@@ -9581,9 +9581,9 @@ var Ls = {
 		"ht_and": " y ",
 
 		"goh": "panel de control",
-		"gop": 'hermano anterior">anterior',
-		"gou": 'carpeta de nivel superior">subir',
-		"gon": 'siguiente carpeta">siguiente',
+		"gop": 'hermano anterior',
+		"gou": 'carpeta de nivel superior',
+		"gon": 'siguiente carpeta',
 		"logout": "Cerrar sesión ",
 		"login": "Iniciar sesión", //m
 		"access": " acceso",
@@ -10211,9 +10211,9 @@ var Ls = {
 		"ht_and": " och ",
 
 		"goh": "kontrollpanel",
-		"gop": 'föregående mapp">föreg.',
-		"gou": 'överordnad mapp">upp',
-		"gon": 'nästa mapp">nästa',
+		"gop": 'föregående mapp',
+		"gou": 'överordnad mapp',
+		"gon": 'nästa mapp',
 		"logout": "Logga ut ",
 		"login": "Logga in", //m
 		"access": "-rättighet",
@@ -10842,9 +10842,9 @@ var Ls = {
 		"ht_and": " і ",
 
 		"goh": "панель керування",
-		"gop": 'попередній сусід">назад',
-		"gou": 'батьківська папка">вгору',
-		"gon": 'наступна папка">далі',
+		"gop": 'попередній сусід',
+		"gou": 'батьківська папка',
+		"gon": 'наступна папка',
 		"logout": "Вийти ",
 		"login": "увійти", //m
 		"access": " доступ",
@@ -12130,7 +12130,7 @@ var mpl = (function () {
 			tags.album = np.album;
 
 		if (r.osd_cv) {
-			var files = QSA("#files tr>td:nth-child(2)>a[id]"),
+			var files = QSA("#files tr>td:nth-child(3)>a[id]"),
 				cover = null;
 
 			for (var a = 0, aa = files.length; a < aa; a++) {
@@ -12296,7 +12296,7 @@ function MPlayer() {
 
 	r.read_order = function () {
 		var order = [],
-			links = QSA('#files>tbody>tr>td:nth-child(1)>a');
+			links = QSA('#files>tbody>tr>td:nth-child(2)>a');
 
 		for (var a = 0, aa = links.length; a < aa; a++) {
 			var tid = links[a].getAttribute('id');
@@ -13050,7 +13050,7 @@ function sel_song() {
 	var o = QS('#files tr.play');
 	if (!o)
 		return;
-	clmod(o, 'sel', 't');
+	check_file_row(o, 't');
 	msel.origin_tr(o);
 	msel.selui();
 }
@@ -14095,7 +14095,7 @@ function eval_hash() {
 
 	// folder nav
 	ebi('goh').parentElement.appendChild(mknod('span', null,
-		'<a href="#" id="gop" tt="' + L.gop + '</a>/<a href="#" id="gou" tt="' + L.gou + '</a>/<a href="#" id="gon" tt="' + L.gon + '</a>'));
+		'<a href="#" id="gop" tt="' + L.gop + '">←</a> <a href="#" id="gou" tt="' + L.gou + '">↑</a> <a href="#" id="gon" tt="' + L.gon + '">→</a>'));
 	ebi('gop').onclick = function () { tree_neigh(-1); }
 	ebi('gon').onclick = function () { tree_neigh(1); }
 	ebi('gou').onclick = function () { tree_up(true); }
@@ -15230,7 +15230,7 @@ var fileman = (function () {
 			f = [],
 			indir = [],
 			srcdir = vsplit(r.clip[0])[0],
-			links = QSA('#files tbody td:nth-child(2) a');
+			links = QSA('#files tbody td:nth-child(3) a');
 
 		r.f = f;
 
@@ -15513,7 +15513,7 @@ var showfile = (function () {
 			r.files.push({ 'id': link.id, 'name': uricom_dec(fn) });
 
 			var ah = ebi(link.id),
-				td = ah.closest('tr').getElementsByTagName('td')[0];
+				td = ah.closest('tr').getElementsByTagName('td')[1];
 
 			if (ah.textContent.endsWith('/'))
 				continue;
@@ -15812,18 +15812,18 @@ var showfile = (function () {
 					sel = true;
 
 			clmod(lis[a], 'hl', lin == fn);
-			clmod(lis[a], 'sel', sel);
+			check_file_row(lis[a], sel);
 			if (lin == fn && sel)
 				actsel = true;
 		}
-		clmod(ebi('seldoc'), 'sel', actsel);
+		check_file_row(ebi('seldoc'), actsel);
 	};
 
 	r.tglsel = function () {
 		var fn = ebi('docname').textContent;
 		for (var a = 0; a < r.files.length; a++)
 			if (r.files[a].name == fn)
-				clmod(ebi(r.files[a].id).closest('tr'), 'sel', 't');
+				check_file_row(ebi(r.files[a].id).closest('tr'), 't');
 
 		msel.selui();
 	};
@@ -16042,7 +16042,7 @@ var thegrid = (function () {
 			td.onclick.call(td, e);
 			if (e.shiftKey)
 				return r.loadsel();
-			clmod(this, 'sel', clgot(tr, 'sel'));
+			check_file_row(this, is_file_row_checked(tr));
 		}
 		else if (in_tree && !have_sel)
 			in_tree.click();
@@ -16169,7 +16169,7 @@ var thegrid = (function () {
 			max_svgs = CHROME ? 500 : 5000,
 			need_ext = !r.thumbs || !!ext_th,
 			use_ext_th = r.thumbs && ext_th,
-			files = QSA('#files>tbody>tr>td:nth-child(2) a[id]');
+			files = QSA('#files>tbody>tr>td:nth-child(3) a[id]');
 
 		for (var a = 0, aa = files.length; a < aa; a++) {
 			var ao = files[a],
@@ -16514,7 +16514,7 @@ function fselfunw(e, ae, d, rem) {
 			document.documentElement.scrollTop += (d == 'next' ? 1 : -1) * elh;
 
 		if (e.shiftKey) {
-			clmod(el, 'sel', 't');
+			check_file_row(el, 't');
 			msel.origin_tr(el);
 			msel.selui();
 		}
@@ -16624,7 +16624,7 @@ var ahotkeys = function (e) {
 			return ev(e);
 		}
 		if (k == 'Space' || k == 'Spacebar' || k == ' ') {
-			clmod(ae, 'sel', 't');
+			check_file_row(ae, 't');
 			msel.origin_tr(ae);
 			msel.selui();
 			return ev(e);
@@ -17974,7 +17974,7 @@ var treectl = (function () {
 					'" hl="' + id + '" name="' + hname + '">-txt-</a>';
 
 			var cl = /\.PARTIAL$/.exec(fname) ? ' class="fade"' : '',
-				ln = ['<tr' + cl + '><td>' + tn.lead + '</td><td><a href="' +
+				ln = ['<tr' + cl + '><td><input type="checkbox"></td><td>' + tn.lead + '</td><td><a href="' +
 					top + tn.href + '" id="' + id + '">' + hname + '</a>', tn.sz];
 
 			for (var b = 0; b < res.taglist.length; b++) {
@@ -18325,9 +18325,9 @@ function apply_perms(res) {
 
 	for (var a = 0; a < chk.length; a++)
 		if (has(perms, chk[a]))
-			axs.push(chk[a].slice(0, 1).toUpperCase() + chk[a].slice(1));
+			axs.push(chk[a].slice(0, 1).toUpperCase());
 
-	axs = axs.join('-');
+	axs = axs.join("");
 	if (perms.length == 1) {
 		aclass = ' class="warn">';
 		axs += '-Only';
@@ -18402,7 +18402,7 @@ function apply_perms(res) {
 
 function tr2id(tr) {
 	try {
-		return tr.cells[1].querySelector('a[id]').getAttribute('id');
+		return tr.cells[2].querySelector('a[id]').getAttribute('id');
 	}
 	catch (ex) {
 		return null;
@@ -18430,10 +18430,17 @@ function find_file_col(txt) {
 	return [i, min];
 }
 
+function toggle_all_files() {
+    var trs = QSA('#files tbody tr');
+    for (var i = 0; i < trs.length; i++) {
+        check_file_row(trs[i], "t");
+    }
+}
 
 function mk_files_header(taglist) {
 	var html = [
 		'<thead><tr>',
+		'<th name="sel"><button onclick="toggle_all_files()">^=</button></th>',
 		'<th name="lead"><span>c</span></th>',
 		'<th name="href"><span>File Name</span></th>',
 		'<th name="sz" sort="int"><span>Size</span></th>'
@@ -18879,7 +18886,7 @@ var arcfmt = (function () {
 
 	function render() {
 		var arg = null,
-			tds = QSA('#files tbody td:first-child a');
+			tds = QSA('#files tbody td:nth-child(2) a');
 
 		for (var a = 0; a < fmts.length; a++)
 			if (fmts[a][0] == fmt)
@@ -18936,6 +18943,24 @@ var arcfmt = (function () {
 	};
 })();
 
+function is_file_row_checked(row) {
+    return clgot(row, "sel");
+}
+
+function check_file_row(row, add) {
+    console.log(row, add);
+
+    try {
+        var checkbox = row.querySelector("td:first-child input[type='checkbox']");
+
+        if (add == 't')
+            add = !checkbox.checked;
+        console.log(add);
+        checkbox.checked = !!add;
+    } catch {}
+
+    return clmod(row, "sel", add);
+}
 
 var msel = (function () {
 	var r = {};
@@ -18953,7 +18978,7 @@ var msel = (function () {
 		if (r.all && r.all.length) {
 			for (var a = 0; a < r.all.length; a++) {
 				var ao = r.all[a];
-				ao.sel = clgot(ebi(ao.id).closest('tr'), 'sel');
+				ao.sel = is_file_row_checked(ebi(ao.id).closest('tr'));
 				if (ao.sel)
 					r.sel.push(ao);
 			}
@@ -18962,7 +18987,7 @@ var msel = (function () {
 		}
 
 		r.all = [];
-		var links = QSA('#files tbody td:nth-child(2) a:last-child'),
+		var links = QSA('#files tbody td:nth-child(3) a:last-child'),
 			is_srch = !!ebi('unsearch'),
 			vbase = get_evpath();
 
@@ -18972,7 +18997,7 @@ var msel = (function () {
 				item = {};
 
 			item.id = links[a].getAttribute('id');
-			item.sel = clgot(links[a].closest('tr'), 'sel');
+			item.sel = is_file_row_checked(links[a].closest('tr'));
 			item.vp = href.indexOf('/') !== -1 ? href : vbase + href;
 
 			if (dk) {
@@ -19007,7 +19032,7 @@ var msel = (function () {
 
 		for (var a = 0; a < r.all.length; a++)
 			if (vsel.has(r.all[a].vp))
-				clmod(ebi(r.all[a].id).closest('tr'), 'sel', 1);
+				check_file_row(ebi(r.all[a].id).closest('tr'), 1);
 
 		r.selui();
 	};
@@ -19040,6 +19065,8 @@ var msel = (function () {
 		var tr = this.parentNode,
 			id = tr2id(tr);
 
+        if (treectl.csel && (e.shiftKey || e.ctrlKey)) e.preventDefault();
+
 		if ((treectl.csel || !thegrid.en || thegrid.sel) && e.shiftKey && r.so && id && r.so != id) {
 			var o1 = -1, o2 = -1;
 			for (a = 0; a < r.all.length; a++) {
@@ -19056,7 +19083,7 @@ var msel = (function () {
 			if (r.pr) {
 				// invert previous range, in case it was narrowed
 				for (var a = r.pr[0]; a <= r.pr[1]; a++)
-					clmod(ebi(r.all[a].id).closest('tr'), 'sel', !st);
+					check_file_row(ebi(r.all[a].id).closest('tr'), !st);
 
 				// and invert current selection if repeated
 				if (r.pr[0] === o1 && r.pr[1] === o2)
@@ -19064,7 +19091,7 @@ var msel = (function () {
 			}
 
 			for (var a = o1; a <= o2; a++)
-				clmod(ebi(r.all[a].id).closest('tr'), 'sel', st);
+				check_file_row(ebi(r.all[a].id).closest('tr'), st);
 
 			r.pr = [o1, o2];
 
@@ -19072,7 +19099,7 @@ var msel = (function () {
 				window.getSelection().removeAllRanges();
 		}
 		else {
-			clmod(tr, 'sel', 't');
+			check_file_row(tr, 't');
 			r.origin_tr(tr);
 		}
 		r.selui();
@@ -19090,7 +19117,7 @@ var msel = (function () {
 		r.so = r.pr = null;
 		var trs = QSA('#files tbody tr');
 		for (var a = 0, aa = trs.length; a < aa; a++)
-			clmod(trs[a], 'sel', fun);
+			check_file_row(trs[a], fun);
 		r.selui();
 	}
 	ebi('selall').onclick = function (e) {
@@ -19136,12 +19163,21 @@ var msel = (function () {
 			dl_file(sel[a].vp + sel[a].q);
 	};
 	r.render = function () {
-		var tds = QSA('#files tbody td+td+td'),
+		var tds = QSA('#files tbody td+td+td+td'),
+		    checkboxes = QSA('#files tbody td input[type="checkbox"]'),
 			is_srch = !!ebi('unsearch');
 
-		if (!is_srch)
+		if (!is_srch) {
 			for (var a = 0, aa = tds.length; a < aa; a++)
 				tds[a].onclick = r.seltgl;
+
+            for (var i = 0; i < checkboxes.length; i++) {
+                checkboxes[i].onchange = function (e) {
+                    this.checked ^= true;
+                    this.parentNode.parentNode.children[3].onclick(e);
+                };
+            }
+        }
 
 		r.selui(true);
 		arcfmt.render();
@@ -19585,8 +19621,8 @@ if (sb_lg && logues.length) {
 	try {
 		var tr = ebi('files').tBodies[0].rows;
 		for (var a = 0; a < tr.length; a++) {
-			var td = tr[a].cells[1],
-				ao = td.firstChild,
+			var td = tr[a].cells[2],
+				ao = td.children[1],
 				href = noq_href(ao),
 				isdir = href.endsWith('/'),
 				txt = ao.textContent;
@@ -19980,7 +20016,7 @@ function reload_browser() {
 		ebi('path').appendChild(o);
 	}
 
-	var oo = QSA('#files>tbody>tr>td:nth-child(3)');
+	var oo = QSA('#files>tbody>tr>td:nth-child(4)');
 	for (var a = 0, aa = oo.length; a < aa; a++) {
 		var sz = oo[a].textContent.replace(/ +/g, ""),
 			hsz = sz.replace(/\B(?=(\d{3})+(?!\d))/g, " ");

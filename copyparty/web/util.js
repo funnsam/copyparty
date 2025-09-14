@@ -728,7 +728,7 @@ function makeSortable(table, cb) {
     th && (th = th.rows[0]) && (th = th.cells);
     if (th) i = th.length;
     else return; // if no `<thead>` then do nothing
-    while (--i >= 0) (function (i) {
+    while (--i > 0) (function (i) {
         th[i].onclick = function (e) {
             ev(e);
             sortTable(table, i, cb);

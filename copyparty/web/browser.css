@@ -613,6 +613,8 @@ html.y #path {
 	top: -.3em;
 	border-spacing: 0;
 	position: relative;
+    width: 100%;
+    display: block;
 }
 #files tbody a {
 	display: block;
@@ -698,7 +700,7 @@ html #files.hhpick thead th {
 	padding: .3em .5em;
 	background: var(--bg);
 	max-width: var(--file-td-w);
-	word-wrap: break-word;
+	white-space: nowrap;
 	overflow: hidden;
 }
 #files tr.fade a {
@@ -726,7 +728,7 @@ html.y #files tr.fade a {
 #files td:last-child {
 	border-radius: 0 .25em .25em 0;
 }
-#files tbody td:nth-child(3) {
+#files tbody td:nth-child(4) {
 	font-family: 'scp', monospace, monospace;
 	font-family: var(--font-mono), 'scp', monospace, monospace;
 	text-align: right;
@@ -1528,6 +1530,7 @@ input.eq_gain {
 	margin: 1.8em 1.5em 0 1.5em;
 	min-height: 70vh;
 	padding-bottom: 7em;
+    overflow: auto;
 }
 #tree {
 	display: none;
@@ -1756,7 +1759,7 @@ html.y #tree.nowrap .ntree a+a:hover {
 #files td.min {
 	display: none;
 }
-#files td:nth-child(2n) {
+#files td:nth-child(2n+1) {
 	color: var(--tab-alt);
 }
 #plazy {
